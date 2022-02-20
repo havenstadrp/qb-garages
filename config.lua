@@ -146,8 +146,8 @@ Garages = {
         vehicle = 'car'                 --car, air, sea
     },
     ["pillboxgarage"] = {
-        label = "Pillbox Garage Parking",
-        takeVehicle = vector3(215.9499, -809.698, 30.731),
+        label = "Blokkenpark Garage Parking",
+        takeVehicle = vector3(219.7196, -810.884, 30.727),
         spawnPoint = vector4(234.1942, -787.066, 30.193, 159.6),
         putVehicle = vector3(218.0894, -781.370, 30.389),
         showBlip = true,
