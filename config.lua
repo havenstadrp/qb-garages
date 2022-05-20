@@ -93,9 +93,9 @@ Garages = {
     },
     ["themotorhotel"] = {
         label = "The Motor Hotel Parking",
-        takeVehicle = vector3(1142.307, 2663.968, 38.160),            
-        spawnPoint = vector4(1137.404, 2649.062, 37.996, 10.53),      
-        putVehicle = vector3(1137.561, 2662.421, 38.004),
+        takeVehicle = vector3(1137.77, 2663.54, 37.9),
+        spawnPoint = vector4(1137.69, 2673.61, 37.9, 359.5),
+        putVehicle = vector3(1137.75, 2652.95, 37.9),
         showBlip = true,
         blipName = "Public Parking",
         blipNumber = 357,
@@ -126,9 +126,9 @@ Garages = {
     },
     ["haanparking"] = {
         label = "Bell Farms Parking",
-        takeVehicle = vector3(83.88895, 6420.558, 31.760),
-        spawnPoint = vector4(101.1501, 6410.087, 31.336, 39.67), 
-        putVehicle = vector3(83.13655, 6412.806, 31.264),
+        takeVehicle = vector3(78.34, 6418.74, 31.28),
+        spawnPoint = vector4(70.71, 6425.16, 30.92, 68.5),
+        putVehicle = vector3(85.3, 6427.52, 31.33),
         showBlip = true,
         blipName = "Public Parking",
         blipNumber = 357,
@@ -138,7 +138,7 @@ Garages = {
     ["dumbogarage"] = {
         label = "Dumbo Private Parking",
         takeVehicle = vector3(157.26, -3240.00, 7.00),
-        spawnPoint = vector4(181.4238, -3237.75, 5.2194, 2.536), 
+        spawnPoint = vector4(165.32, -3236.10, 5.93, 268.5),
         putVehicle = vector3(165.32, -3230.00, 5.93),
         showBlip = true,
         blipName = "Public Parking",
@@ -250,7 +250,7 @@ Garages = {
         job = "ambulance"
     },
     ["intairport"] = {
-        label = "Airport Hangar", 
+        label = "Airport Hangar",
         takeVehicle = vector3(-1025.92, -3017.86, 13.95),
         spawnPoint = vector4(-979.2, -2995.51, 13.95, 52.19),
         putVehicle = vector3(-1003.38, -3008.87, 13.95),
@@ -261,7 +261,7 @@ Garages = {
         vehicle = 'air'                 --car, air, sea
     },
     ["higginsheli"] = {
-        label = "Higgins Helitours", 
+        label = "Higgins Helitours",
         takeVehicle = vector3(-722.15, -1472.79, 5.0),
         spawnPoint = vector4(-724.83, -1443.89, 5.0, 140.1),
         putVehicle = vector3(-745.48, -1468.46, 5.0),
@@ -272,7 +272,7 @@ Garages = {
         vehicle = 'air'                 --car, air, sea
     },
     ["airsshores"] = {
-        label = "Sandy Shores Hangar", 
+        label = "Sandy Shores Hangar",
         takeVehicle = vector3(1758.19, 3296.66, 41.14),
         spawnPoint = vector4(1740.98, 3279.08, 41.75, 106.77),
         putVehicle = vector3(1740.4, 3283.92, 41.1),
@@ -283,7 +283,7 @@ Garages = {
         vehicle = 'air'                 --car, air, sea
     },
     ["airdepot"] = {
-        label = "Air Depot", 
+        label = "Air Depot",
         takeVehicle = vector3(-1243.29, -3392.3, 13.94),
         spawnPoint = vector4(-1269.67, -3377.74, 13.94, 327.88),
         showBlip = true,
@@ -293,7 +293,7 @@ Garages = {
         vehicle = 'air'                 --car, air, sea
     },
     ["lsymc"] = {
-        label = "LSYMC Boathouse",               
+        label = "LSYMC Boathouse",
         takeVehicle = vector3(-794.66, -1510.83, 1.59),
         spawnPoint = vector4(-793.58, -1501.4, 0.12, 111.5),
         putVehicle = vector3(-793.58, -1501.4, 0.12),
@@ -304,7 +304,7 @@ Garages = {
         vehicle = 'sea'                 --car, air, sea
     },
     ["paleto"] = {
-        label = "Paleto Boathouse",               
+        label = "Paleto Boathouse",
         takeVehicle = vector3(-277.46, 6637.2, 7.48),
         spawnPoint = vector4(-289.2, 6637.96, 1.01, 45.5),
         putVehicle = vector3(-289.2, 6637.96, 1.01),
@@ -315,7 +315,7 @@ Garages = {
         vehicle = 'sea'                 --car, air, sea
     },
     ["millars"] = {
-        label = "Millars Boathouse",               
+        label = "Millars Boathouse",
         takeVehicle = vector3(1299.24, 4216.69, 33.9),
         spawnPoint = vector4(1297.82, 4209.61, 30.12, 253.5),
         putVehicle = vector3(1297.82, 4209.61, 30.12),
@@ -326,7 +326,7 @@ Garages = {
         vehicle = 'sea'                 --car, air, sea
     },
     ["seadepot"] = {
-        label = "LSYMC Depot",               
+        label = "LSYMC Depot",
         takeVehicle = vector3(-772.98, -1430.76, 1.59),
         spawnPoint = vector4(-729.77, -1355.49, 1.19, 142.5),
         putVehicle = vector3(-729.77, -1355.49, 1.19),
